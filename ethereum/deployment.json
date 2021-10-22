@@ -1,12 +1,12 @@
 {
   "rinkeby": {
     "voucher": {
-      "proxyAddress": "0xeEA571Edbc32Ede4933a1DbeAE635cF2244F873C",
-      "implAddress": "0x762E234DD70B5F5891adD6Cd088D6389b8dA540C",
+      "proxyAddress": "0xE0393855649E00Eb12eF994B914Fd74EF0521518",
+      "implAddress": "0xaf678f61e3601F9DFb39172889DE93956BC64cd0",
       "version": "1.0.0",
       "contract": "VoucherImpl",
       "operator": "0x2219f2554ed3cE764043f636f36CE690173191f3",
-      "fromBlock": 9502223
+      "fromBlock": 9507447
     }
   }
 }
