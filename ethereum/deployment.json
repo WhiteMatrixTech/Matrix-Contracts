@@ -8,5 +8,15 @@
       "operator": "0x2219f2554ed3cE764043f636f36CE690173191f3",
       "fromBlock": 9507447
     }
+  },
+  "mainnet": {
+    "voucher": {
+      "proxyAddress": "0x05b505F6Bda522eFd3b5F63b6338f275f14549a2",
+      "implAddress": "0x135957bE75eF282048279A74133708Cc72399Be1",
+      "version": "1.0.0",
+      "contract": "VoucherImpl",
+      "operator": "0xc625E0E0AcCa221a2Fb9dDc855dF17c8c3134DBF",
+      "fromBlock": 13467071
+    }
   }
 }
