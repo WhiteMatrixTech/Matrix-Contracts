@@ -25,6 +25,14 @@
       "contract": "VoucherImpl",
       "operator": "0xc625E0E0AcCa221a2Fb9dDc855dF17c8c3134DBF",
       "fromBlock": 13467071
+    },
+    "matrixAirdrop": {
+      "proxyAddress": "0x857d61713550c7C694c34A94BB66b76D5B627a44",
+      "implAddress": "0x857d61713550c7C694c34A94BB66b76D5B627a44",
+      "version": "1.0.0",
+      "contract": "MatrixAirdrop",
+      "operator": "0xc625E0E0AcCa221a2Fb9dDc855dF17c8c3134DBF",
+      "fromBlock": 13723240
     }
   }
 }
