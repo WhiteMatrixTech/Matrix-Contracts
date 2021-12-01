@@ -9,12 +9,12 @@
       "fromBlock": 9507447
     },
     "matrixAirdrop": {
-      "proxyAddress": "0x18a69643Db85E7957514Fd903195099841FeFa0e",
-      "implAddress": "0x18a69643Db85E7957514Fd903195099841FeFa0e",
+      "proxyAddress": "0x02093d9dD3e7e64A22C28c4e564C5f164Bd45CbA",
+      "implAddress": "0x02093d9dD3e7e64A22C28c4e564C5f164Bd45CbA",
       "version": "1.0.0",
       "contract": "MatrixAirdrop",
       "operator": "0x8AE1d037a29aA9A0060139E407bD5A2E1d11Fe5B",
-      "fromBlock": 9731631
+      "fromBlock": 9737229
     }
   },
   "mainnet": {
