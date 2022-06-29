@@ -1,0 +1,22 @@
+name: deploy deployInfo to aws
+
+on: push
+      branches:
+        - main
+
+jobs:
+  build:
+    runs-on: self-hosted
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Set AWS credentials
+        # You may pin to the exact commit or the version.
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-region: ap-northeast-1
+
+      - name: Deploy to S3
+        run: |
+         aws s3 sync content s3://matrixworld/deployment
