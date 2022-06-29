@@ -20,4 +20,4 @@ jobs:
 
       - name: Deploy to S3
         run: |
-         aws s3 sync content s3://matrixworld/deployment
+         aws s3 sync ethereum s3://matrixworld/deployment
